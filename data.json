@@ -1,0 +1,7 @@
+{
+    "test" : "result",
+    "X" : "passed",
+    "Y" : "passed",
+    "Z" : "failed",
+    "A" : "problem"
+}
